@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Driver
+comment0.text=\r\n\ Where\ the\ LazerMaze\ is\ created\ and\ ran\r\n\r\n\ @author\ Brianna\ Davis,\ Zach\ Giannuzzi,\ Abdul\ Samad,\ \r\n\ Eric\ Sauer,\ Daniel\ Senecal\r\n\ @version\ 4/30/2018\r\n
+comment1.params=board
+comment1.target=Driver(int)
+comment1.text=\r\n\ Constructs\ a\ driver\ object\ based\ on\ which\ board\ the\ user\r\n\ prompts\ for.\r\n\ \r\n\ @param\ board\ determines\ which\ board\ difficulty\ will\ be\r\n\ loaded\ based\ on\ which\ is\ picked\r\n
+comment2.params=
+comment2.target=void\ initUI1()
+comment2.text=\r\n\ Loads\ the\ board\ and\ images\ needed\ if\ the\ board\ is\ selected\ \r\n\ as\ beginner\r\n
+comment3.params=
+comment3.target=void\ initUI2()
+comment3.text=\r\n\ Loads\ the\ board\ and\ images\ needed\ if\ the\ board\ is\ selected\ \r\n\ as\ intermediate\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ When\ ran,\ it\ creates\ a\ JOptionPane\ for\ the\ user\ to\ select\ \r\n\ a\ difficulty\ level\ and\ prompts\ the\ user\ until\ one\ is\ \r\n\ selected.\r\n\ \r\n\ @param\ args\ is\ not\ used.\r\n
+comment5.params=
+comment5.target=void\ run()
+numComments=6
